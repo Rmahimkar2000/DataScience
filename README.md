@@ -1,0 +1,1 @@
+This use case is about predicting Air pollution levels for Central london for the next 30 minutes. You will get the better idea of this use case by going through the well commented njupyter notebook and presentation slides
